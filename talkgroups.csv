@@ -1,0 +1,23 @@
+Decimal,Hex,Alpha Tag,Mode,Description,Tag,Category
+1,0001,Regist/Affil,D,Registration and Affiliation,Other,System
+100,0064,ACFR Disp,D,Alachua County Fire Rescue Dispatch,Fire Dispatch,Fire
+101,0065,ACFR Tac 1,D,Alachua County Fire Rescue Tac 1,Fire-Tac,Fire
+102,0066,ACFR Tac 2,D,Alachua County Fire Rescue Tac 2,Fire-Tac,Fire
+103,0067,ACFR Tac 3,D,Alachua County Fire Rescue Tac 3,Fire-Tac,Fire
+104,0068,ACFR Tac 4,D,Alachua County Fire Rescue Tac 4,Fire-Tac,Fire
+105,0069,ACFR Cmd,D,Alachua County Fire Rescue Command,Fire-Tac,Fire
+110,006E,GFR Disp,D,Gainesville Fire Rescue Dispatch,Fire Dispatch,Fire
+111,006F,GFR Tac 1,D,Gainesville Fire Rescue Tac 1,Fire-Tac,Fire
+112,0070,GFR Tac 2,D,Gainesville Fire Rescue Tac 2,Fire-Tac,Fire
+200,00C8,ACSO Disp,D,Alachua County SO Dispatch,Law Dispatch,Law Enforcement
+201,00C9,ACSO Tac 1,D,Alachua County SO Tac 1,Law Tac,Law Enforcement
+202,00CA,ACSO Tac 2,D,Alachua County SO Tac 2,Law Tac,Law Enforcement
+210,00D2,GPD Disp 1,D,Gainesville PD Dispatch 1,Law Dispatch,Law Enforcement
+211,00D3,GPD Disp 2,D,Gainesville PD Dispatch 2,Law Dispatch,Law Enforcement
+212,00D4,GPD Tac 1,D,Gainesville PD Tac 1,Law Tac,Law Enforcement
+213,00D5,GPD Tac 2,D,Gainesville PD Tac 2,Law Tac,Law Enforcement
+220,00DC,UPD Disp,D,University of Florida PD Dispatch,Law Dispatch,Law Enforcement
+300,012C,ACEMS Disp,D,Alachua County EMS Dispatch,EMS Dispatch,EMS
+301,012D,ACEMS Tac 1,D,Alachua County EMS Tac 1,EMS-Tac,EMS
+400,0190,GRU Ops,D,Gainesville Regional Utilities Operations,Utilities,Public Works
+500,01F4,Schools,D,Alachua County Schools,Schools,Schools

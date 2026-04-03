@@ -1,0 +1,41 @@
+{
+  "ver": 2,
+  "logLevel": "info",
+  "consoleLog": true,
+  "logFile": false,
+  "callTimeout": 3,
+  "frequencyFormat": "mhz",
+  "controlWarnRate": 10,
+  "systems": [
+    {
+      "shortName": "alachua",
+      "type": "p25",
+      "control_channels": [
+        852187500,
+        852275000,
+        853187500,
+        853675000
+      ],
+      "modulation": "qpsk",
+      "talkgroupsFile": "talkgroups.csv",
+      "recordUnknown": true,
+      "hideUnknownTalkgroups": false,
+      "hideEncrypted": false,
+      "digitalLevels": 1,
+      "squelch": -160,
+      "enabled": true
+    }
+  ],
+  "sources": [
+    {
+      "driver": "osmosdr",
+      "device": "rtl=0",
+      "center": 852900000,
+      "rate": 2048000,
+      "gain": 38,
+      "digitalRecorders": 0,
+      "analogRecorders": 0,
+      "enabled": true
+    }
+  ]
+}
